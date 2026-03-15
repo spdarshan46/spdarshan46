@@ -7,14 +7,13 @@
 I design production-ready REST APIs, scalable architectures, and AI-powered applications.  
 🚀 7+ projects with measurable impact.
 
----
 
 ## 📌 About Me
 
 Backend-focused engineer building scalable systems.  
 I'm a Computer Science Engineering student specializing in backend development and full-stack systems. My core strength lies in designing clean architectures, secure REST APIs, and optimized database structures. I actively integrate AI tools into my workflow for faster development and smarter automation. My goal is to build high-performance systems that are scalable and production-ready.
 
----
+
 
 ## 🛠️ Technical Skills
 
@@ -45,22 +44,39 @@ I'm a Computer Science Engineering student specializing in backend development a
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 
----
 
-## 💻 Projects
 
-| Project | Description | Tags |
-|---------|-------------|------|
-| **[Smart Nutrition Analyzer](https://github.com/spdarshan46/Smart-Nutrition-Label-Analyzer-Health-Score-Predictor)** | MERN stack + OCR. AI-powered health score prediction with 90%+ accuracy. | `React` `Node.js` `MongoDB` `OCR` |
-| **[Campus Flow](https://github.com/spdarshan46/campus-flow)** | Real-time campus management with Django + PostgreSQL, Flutter frontend. | `Django` `PostgreSQL` `Flutter` |
-| **[Smart Parking IoT](https://github.com/spdarshan46/smart-parking-iot)** | Django REST API + IoT simulator with real-time updates every 15 seconds. | `Django REST` `SQLite` `API` |
-| **[Student DBMS](https://github.com/spdarshan46/student-dbms)** | Flask + MySQL with CRUD operations and authentication. | `Flask` `MySQL` `React.js` |
-| **[Agro-Weather-Advisor](https://github.com/spdarshan46/agro-weather-advisor)** | Weather API + crop prediction for 10+ crops with 95% accuracy. | `JavaScript` `API` `HTML/CSS` |
-| **[Portfolio](https://github.com/spdarshan46/portfolio)** | Modern responsive portfolio with dark mode and purple gradient theme. | `HTML` `CSS` `JS` |
+### 🔥 Live Project
 
-➡️ Check out all my repositories [here](https://github.com/spdarshan46?tab=repositories).
+#### [**PUNDX — Smart Finance & Fund Management**](https://www.pundx.co.in/) `LIVE PROJECT`
 
----
+Full-stack digital platform for community savings groups. Production-deployed with real users.
+
+- **Cycle-based savings** with penalty automation  
+- **Loan lifecycle** — request → approve → EMI tracking  
+- **Role-based access** (Owner & Member) with JWT auth  
+- **Finance analytics dashboard** + PDF export  
+
+**Tech stack:** Django REST, React, PostgreSQL, JWT, Vercel  
+🔗 [pundx.co.in](https://www.pundx.co.in/)
+
+
+
+### 🚀 Other Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **[AI Attendance System](https://github.com/spdarshan46/ai-attendace)** | Face recognition attendance system using OpenCV. | Python, OpenCV, AI/ML |
+| **[Smart Nutrition Analyzer](https://github.com/spdarshan46/Smart-Nutrition-Label-Analyzer-Health-Score-Predictor)** | MERN stack + OCR. AI-powered health score prediction with 90%+ accuracy. | React, Node.js, MongoDB, OCR |
+| **[Campus Flow](https://github.com/Mr-APS-22/SDMS_project)** | Real-time campus management with Django + PostgreSQL, Flutter frontend. | Django, PostgreSQL, Flutter |
+| **[Smart Parking IoT](https://github.com/spdarshan46/smart-parking-iot)** | Django REST API + IoT simulator with real-time updates every 15 seconds. | Django REST, SQLite, API |
+| **[Student DBMS](https://github.com/Mr-APS-22/GECC)** | Flask + MySQL with CRUD operations and authentication. | Flask, MySQL, React.js |
+| **[Agro-Weather-Advisor](https://github.com/spdarshan46/Agro-Weather-Advisor)** | Weather API + crop prediction for 10+ crops with 95% accuracy. | JavaScript, API, HTML/CSS |
+| **[Portfolio](https://spdarshan46.github.io/Portfolio/)** | Modern responsive portfolio with dark mode and purple gradient theme. | HTML, CSS, JS |
+
+➡️ Explore all repositories [on GitHub](https://github.com/spdarshan46?tab=repositories).
+
+
 
 ## 🎓 Education & Experience
 
@@ -75,7 +91,7 @@ I'm a Computer Science Engineering student specializing in backend development a
 - **Java Full-Stack Intern** @ Inventron (2024 – Present)
 - **Cybersecurity Intern** @ Ultismart Infotech (2023)
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -85,13 +101,13 @@ I'm a Computer Science Engineering student specializing in backend development a
 ### 📈 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spdarshan46&layout=compact&theme=tokyonight&hide_border=true)
 
----
+
 
 ## 📊 Contribution Graph
 
 ![Darshan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=spdarshan46&theme=tokyo-night)
 
----
+
 
 ## 🐍 Contribution Snake
 
@@ -99,7 +115,6 @@ I'm a Computer Science Engineering student specializing in backend development a
 
 *This snake animation updates automatically every day with your latest contributions.*
 
----
 
 ## 📫 Let's Connect
 
