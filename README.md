@@ -20,24 +20,25 @@ I build full-stack applications and work on innovative projects like **PUNDX** �
 
 ---
 
-## 🔥 Featured Projects
+## 🔥 Projects
 
-<!-- These will appear as pinned repositories on your profile – be sure to pin them! -->
-### [PUNDX](https://github.com/spdarshan46/pundx) – Smart Finance & Fund Management System
-- Loan management, cycle‑based savings, penalty automation, analytics dashboard.
+### 🚀 [PUNDX](https://github.com/spdarshan46/pundx)  – Smart Finance & Fund Management System
+- Loan management
+- Cycle-based savings
+- Penalty automation
+- Finance analytics dashboard
 
-### [Smart Parking IoT](https://github.com/spdarshan46/smart-parking-iot)
-- IoT-based parking slot detection with real-time availability updates.
+### 🚗[Smart Parking IoT](https://github.com/spdarshan46/smart-parking-iot)
 
-### [AI Attendance](https://github.com/spdarshan46/ai-attendance)
-- Face recognition attendance system using OpenCV and deep learning.
+- IoT parking detection system with real-time slot updates.
 
-### [Agro Weather Advisor](https://github.com/spdarshan46/agro-weather-advisor)
-- Weather-based crop advisory for farmers using open APIs.
+### 🤖[AI Attendance](https://github.com/spdarshan46/ai-attendance)
 
-### [Portfolio](https://github.com/spdarshan46/portfolio)
-- My personal portfolio website built with React.
+- Face recognition attendance system using OpenCV.
 
+### 🌐 Portfolio
+My personal portfolio website built with React.
+🔗 https://spdarshan46.github.io/Portfolio/
 ---
 
 ## 📊 GitHub Stats
@@ -65,17 +66,6 @@ I build full-stack applications and work on innovative projects like **PUNDX** �
 
 ---
 
-## 📌 Recent Activity
-
-<!--START_SECTION:activity-->
-<!-- This section is automatically updated by a GitHub Action. -->
-<!-- Example entries will appear here after you set up the action. -->
-<!--END_SECTION:activity-->
-
-<!--
-  To enable automatic updates of your recent GitHub activity,
-  create a file .github/workflows/update-activity.yml with the content provided below.
--->
 
 ---
 
