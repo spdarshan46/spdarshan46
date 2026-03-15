@@ -1,3 +1,4 @@
+![Profile Views](https://komarev.com/ghpvc/?username=spdarshan46&color=blue)
 # Hi 👋, I'm S P Darshan
 
 🚀 **Software Developer** | Python | Django | React
@@ -12,42 +13,62 @@ I build full-stack applications and work on innovative projects like **PUNDX** �
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 🔥 Current Project
+## 🔥 Featured Projects
 
-### 📌 [PUNDX](https://github.com/yourusername/pundx) – Smart Finance & Fund Management System
+<!-- These will appear as pinned repositories on your profile – be sure to pin them! -->
+### [PUNDX](https://github.com/spdarshan46/pundx) – Smart Finance & Fund Management System
+- Loan management, cycle‑based savings, penalty automation, analytics dashboard.
 
-**Features:**
-- Loan management
-- Cycle‑based savings
-- Penalty automation
-- Finance analytics dashboard
+### [Smart Parking IoT](https://github.com/spdarshan46/smart-parking-iot)
+- IoT-based parking slot detection with real-time availability updates.
+
+### [AI Attendance](https://github.com/spdarshan46/ai-attendance)
+- Face recognition attendance system using OpenCV and deep learning.
+
+### [Agro Weather Advisor](https://github.com/spdarshan46/agro-weather-advisor)
+- Weather-based crop advisory for farmers using open APIs.
+
+### [Portfolio](https://github.com/spdarshan46/portfolio)
+- My personal portfolio website built with React.
 
 ---
 
 ## 📊 GitHub Stats
 
-| <a href="https://github.com/yourusername"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" /></a> | <a href="https://github.com/yourusername"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" alt="GitHub streak" /></a> |
+| <a href="https://github.com/spdarshan46"><img align="center" src="https://github-readme-stats.vercel.app/api?username=spdarshan46&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" /></a> | <a href="https://github.com/spdarshan46"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spdarshan46&theme=tokyonight&hide_border=true" alt="GitHub streak" /></a> |
 | ------------- | ------------- |
 
 ### 📈 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spdarshan46&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
 
+![snake gif](https://github.com/spdarshan46/spdarshan46/blob/output/github-contribution-grid-snake.svg)
 *This snake animation updates automatically every day with your latest contributions.*
+
+---
+
+## 📌 Recent Activity
+
+<!--START_SECTION:activity-->
+<!-- This section is automatically updated by a GitHub Action. -->
+<!-- Example entries will appear here after you set up the action. -->
+<!--END_SECTION:activity-->
+
+<!--
+  To enable automatic updates of your recent GitHub activity,
+  create a file .github/workflows/update-activity.yml with the content provided below.
+-->
 
 ---
 
@@ -59,8 +80,8 @@ I build full-stack applications and work on innovative projects like **PUNDX** �
 
 📍 **Location:** Chamarajanagar, India  
 📧 **Email:** spdarshan252@gmail.com  
-🔗 **GitHub:** [github.com/yourusername](https://github.com/yourusername)
+🔗 **GitHub:** [github.com/spdarshan46](https://github.com/spdarshan46)
 
 ---
 
-⭐️ From [yourusername](https://github.com/yourusername)
+⭐️ From [spdarshan46](https://github.com/spdarshan46)
