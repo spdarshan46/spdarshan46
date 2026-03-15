@@ -1,4 +1,5 @@
-![Profile Views](https://komarev.com/ghpvc/?username=spdarshan46&color=blue)
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,100:928DAB&height=200&section=header&text=S%20P%20Darshan&fontSize=40&fontColor=ffffff)
+![Profile Views](https://komarev.com/ghpvc/?username=spdarshan46&label=Profile%20views&color=0e75b6&style=flat)
 # Hi 👋, I'm S P Darshan
 
 🚀 **Software Developer** | Python | Django | React
@@ -47,6 +48,12 @@ I build full-stack applications and work on innovative projects like **PUNDX** �
 ### 📈 Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spdarshan46&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 📊 Contribution Graph
+
+![Darshan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=spdarshan46&theme=tokyo-night)
 
 ---
 
