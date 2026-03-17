@@ -72,6 +72,7 @@ Full-stack digital platform for community savings groups. Production-deployed wi
 | **[Student DBMS](https://github.com/Mr-APS-22/GECC)** | Flask + MySQL with CRUD operations and authentication. | Flask, MySQL, React.js |
 | **[Agro-Weather-Advisor](https://github.com/spdarshan46/Agro-Weather-Advisor)** | Weather API + crop prediction for 10+ crops with 95% accuracy. | JavaScript, API, HTML/CSS |
 | **[Portfolio](https://spdarshan46.github.io/Portfolio/)** | Modern responsive portfolio with dark mode and purple gradient theme. | HTML, CSS, JS |
+| **[Driver-safety-ai](https://github.com/spdarshan46/driver-safety-ai)** | This project detects driver behaviors such as drowsiness, distraction, and phone usage and provides a real-time monitoring dashboard.| Computer Vision, AI, FastAPI, and React.|
 
 ➡️ Explore all repositories [on GitHub](https://github.com/spdarshan46?tab=repositories).
 
