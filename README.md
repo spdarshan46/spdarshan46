@@ -65,6 +65,7 @@ Full-stack digital platform for community savings groups. Production-deployed wi
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
+| **[AI Resume Analyzer & Recruitment System](https://github.com/SnehaKhanaganvi/Ai-Resyme-Alayser-Recuirtment-System-)** *(in progress)* | Full‑stack recruitment platform with AI‑powered resume analysis. Uses Python FastAPI for scoring (keyword/ATS), Node.js backend, and React frontend. Supports job creation, candidate applications, AI scoring, and team management. | React, Node.js, Express, MongoDB, Python, FastAPI, PyPDF2 |
 | **[AI Attendance System](https://github.com/spdarshan46/ai-attendace)** | Face recognition attendance system using OpenCV. | Python, OpenCV, AI/ML |
 | **[Smart Nutrition Analyzer](https://github.com/spdarshan46/Smart-Nutrition-Label-Analyzer-Health-Score-Predictor)** | MERN stack + OCR. AI-powered health score prediction with 90%+ accuracy. | React, Node.js, MongoDB, OCR |
 | **[Campus Flow](https://github.com/Mr-APS-22/SDMS_project)** | Real-time campus management with Django + PostgreSQL, Flutter frontend. | Django, PostgreSQL, Flutter |
